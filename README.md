@@ -29,6 +29,9 @@ Pick the build that matches your phone (most phones made in the last 7+ years us
 > [!NOTE]
 > **Sign-in tip for this beta:** Please create an account or sign in using **Email & Password** while Google Sign-In for the release signature finishes rollout.
 
+> [!CAUTION]
+> **BETA PAYMENT WARNING — DO NOT ENTER YOUR M-PESA PIN:** If an M-Pesa STK Push prompt pops up on your phone while testing checkout, **cancel or dismiss it — DO NOT enter your M-Pesa PIN or your money goes to the void!** Use this beta purely to preview the checkout UI and countdown flow.
+
 ---
 
 ## Install in 30 Seconds
@@ -47,7 +50,7 @@ Pick the build that matches your phone (most phones made in the last 7+ years us
   - **Parcel Delivery** (`KES 70` base) — send packages safely with rider tracking.
   - **Town / Campus Order** (`KES 100` base) — pick up shop items, printing, gas, or food from spots around Kutus & KyU.
 - **Kirinyaga-First Interactive Map:** Switch between **Street** and **Satellite** maps, use high-accuracy GPS pinpoint or drag-to-pin crosshair, tap KyU/Kutus landmark stages (Kilele Tuition Block, Mjini Market, Spenza/Kagio, Joy Millers), and bookmark frequent hostels or stages.
-- **Safaricom M-Pesa & Trip Safety:** STK Push checkout dialog, 4-digit Trip PIN confirmation, downloadable/copyable digital receipt codes, and emergency SOS alert access.
+- **M-Pesa Checkout Preview & Trip Safety:** STK Push checkout dialog *(preview only — do **not** enter your real M-Pesa PIN)*, 4-digit Trip PIN confirmation, copyable digital receipt preview, and emergency SOS alert access.
 - **Snappy Performance + Calm Light & Dark Modes:** Built with Flutter's native **Impeller Vulkan** pipeline, trimmed map memory caches, and compressed assets so even midrange phones stay smooth at ~20 MB.
 
 ---
