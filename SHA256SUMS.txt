@@ -1,0 +1,2 @@
+73927904784567723cb8dbb9b6e00941c0aa4a9f5c1f403d8dd67f17b3dbdc2c  apks/app-arm64-v8a-release.apk
+73c36f4964711813cf5916c8249f074ec9b5278e8f6bace68c67a692e9e27f0f  apks/app-armeabi-v7a-release.apk
