@@ -6,7 +6,7 @@
 
 **Fast local boda-boda rides, parcel deliveries, and campus/town errands built for Kirinyaga University (KyU), Kutus, Kerugoya, Kagio & Sagana.**
 
-![Beta Release](https://img.shields.io/badge/release-v1.0.0--beta.1-00C853?style=for-the-badge)
+![Beta Release](https://img.shields.io/badge/release-v1.0.0--beta.2-00C853?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Android-APK%20Release-111C18?style=for-the-badge&logo=android&logoColor=00C853)
 ![Light Build](https://img.shields.io/badge/APK%20Size-18%E2%80%9320.4%20MB-00C853?style=for-the-badge)
 
@@ -76,8 +76,8 @@ We'd love honest feedback on what feels great and what needs polish:
 Checksums are also stored in [`SHA256SUMS.txt`](SHA256SUMS.txt):
 
 ```text
-73927904784567723cb8dbb9b6e00941c0aa4a9f5c1f403d8dd67f17b3dbdc2c  apks/app-arm64-v8a-release.apk
-73c36f4964711813cf5916c8249f074ec9b5278e8f6bace68c67a692e9e27f0f  apks/app-armeabi-v7a-release.apk
+e52bf89e18244a4dd8f08ef709814621420bb876063a1735f4c7e7d687695038  apks/app-arm64-v8a-release.apk
+bb0629ac02081bbdb2f6c6e7c7d06cb059290d8388d8e0782284ddb9966cb899  apks/app-armeabi-v7a-release.apk
 ```
 
 </details>
