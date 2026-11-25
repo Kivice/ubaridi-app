@@ -6,9 +6,9 @@
 
 **Fast local boda-boda rides, parcel deliveries, and campus/town errands built for Kirinyaga University (KyU), Kutus, Kerugoya, Kagio & Sagana.**
 
-![Beta Release](https://img.shields.io/badge/release-v1.0.0--beta.2-00C853?style=for-the-badge)
+![Beta Release](https://img.shields.io/badge/release-v1.0.0--beta.3-00C853?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Android-APK%20Release-111C18?style=for-the-badge&logo=android&logoColor=00C853)
-![Light Build](https://img.shields.io/badge/APK%20Size-18%E2%80%9320.4%20MB-00C853?style=for-the-badge)
+![Light Build](https://img.shields.io/badge/APK%20Size-18.1%E2%80%9320.4%20MB-00C853?style=for-the-badge)
 
 </div>
 
@@ -20,11 +20,11 @@ Pick the build that matches your phone (most phones made in the last 7+ years us
 
 | Device Type | File | Size | Download |
 |---|---|---|---|
-| **Most Modern Android Phones** *(Recommended — 64-bit `arm64-v8a`)* | `app-arm64-v8a-release.apk` | **20.42 MB** | [**Direct Download**](https://github.com/Kivice/ubaridi-app/releases/latest/download/app-arm64-v8a-release.apk) · [`repo file`](apks/app-arm64-v8a-release.apk) |
-| **Older / Entry-Level Phones** *(32-bit `armeabi-v7a`)* | `app-armeabi-v7a-release.apk` | **18.02 MB** | [**Direct Download**](https://github.com/Kivice/ubaridi-app/releases/latest/download/app-armeabi-v7a-release.apk) · [`repo file`](apks/app-armeabi-v7a-release.apk) |
+| **Most Modern Android Phones** *(Recommended — 64-bit `arm64-v8a`)* | `app-arm64-v8a-release.apk` | **20.43 MB** | [**Direct Download**](https://github.com/Kivice/ubaridi-app/releases/latest/download/app-arm64-v8a-release.apk) · [`repo file`](apks/app-arm64-v8a-release.apk) |
+| **Older / Entry-Level Phones** *(32-bit `armeabi-v7a`)* | `app-armeabi-v7a-release.apk` | **18.07 MB** | [**Direct Download**](https://github.com/Kivice/ubaridi-app/releases/latest/download/app-armeabi-v7a-release.apk) · [`repo file`](apks/app-armeabi-v7a-release.apk) |
 
 > [!TIP]
-> Not sure which file to pick? Download **`app-arm64-v8a-release.apk` (20.42 MB)** first. If Android says the package isn't compatible with your CPU, install **`app-armeabi-v7a-release.apk` (18.02 MB)** instead.
+> Not sure which file to pick? Download **`app-arm64-v8a-release.apk` (20.43 MB)** first. If Android says the package isn't compatible with your CPU, install **`app-armeabi-v7a-release.apk` (18.07 MB)** instead.
 
 > [!NOTE]
 > **Sign-in tip for this beta:** Please create an account or sign in using **Email & Password** while Google Sign-In for the release signature finishes rollout.
@@ -49,8 +49,8 @@ Pick the build that matches your phone (most phones made in the last 7+ years us
   - **Boda Ride** (`KES 50` base) — quick campus & town hops.
   - **Parcel Delivery** (`KES 70` base) — send packages safely with rider tracking.
   - **Town / Campus Order** (`KES 100` base) — pick up shop items, printing, gas, or food from spots around Kutus & KyU.
-- **Kirinyaga-First Interactive Map:** Switch between **Street** and **Satellite** maps, use high-accuracy GPS pinpoint or drag-to-pin crosshair, tap KyU/Kutus landmark stages (Kilele Tuition Block, Mjini Market, Spenza/Kagio, Joy Millers), and bookmark frequent hostels or stages.
-- **M-Pesa Checkout Preview & Trip Safety:** STK Push checkout dialog *(preview only — do **not** enter your real M-Pesa PIN)*, 4-digit Trip PIN confirmation, copyable digital receipt preview, and emergency SOS alert access.
+- **Kirinyaga-First Interactive Map & Real Road Routing:** Switch between **Street** and **Satellite** maps, preview live **OSRM road polylines** before booking, use high-accuracy GPS pinpoint or drag-to-pin crosshair, tap KyU/Kutus landmark stages (Kilele Tuition Block, Mjini Market, Spenza/Kagio, Joy Millers), and bookmark frequent hostels or stages.
+- **Live Trip Sharing, SSE Updates & SOS Safety:** Sub-second **SSE live trip tracking**, one-tap **Share Live Trip** links for WhatsApp/SMS, STK Push checkout dialog *(preview only — do **not** enter your real M-Pesa PIN)*, 4-digit Trip PIN confirmation, copyable digital receipt preview, and emergency **SOS + WhatsApp/SMS** alert access.
 - **Snappy Performance + Calm Light & Dark Modes:** Built with Flutter's native **Impeller Vulkan** pipeline, trimmed map memory caches, and compressed assets so even midrange phones stay smooth at ~20 MB.
 
 ---
@@ -76,8 +76,8 @@ We'd love honest feedback on what feels great and what needs polish:
 Checksums are also stored in [`SHA256SUMS.txt`](SHA256SUMS.txt):
 
 ```text
-e52bf89e18244a4dd8f08ef709814621420bb876063a1735f4c7e7d687695038  apks/app-arm64-v8a-release.apk
-bb0629ac02081bbdb2f6c6e7c7d06cb059290d8388d8e0782284ddb9966cb899  apks/app-armeabi-v7a-release.apk
+2be980fe3434c9cec56e5b0021cee1bc72f269fee8b79f09ac9e8f9a933dda46  apks/app-arm64-v8a-release.apk
+59974d16fee1d676a1ac20399c15a86f626b9a14ed5a09ecd47431c4a730104c  apks/app-armeabi-v7a-release.apk
 ```
 
 </details>
